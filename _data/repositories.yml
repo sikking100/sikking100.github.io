@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sikking100
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sikking100/sidia
+  - sikking100/simpelbkk
+  - sikking100/pmd
+  - sikking100/sisfo-sekolah
+  - sikking100/rentalbuku
