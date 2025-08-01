@@ -4,7 +4,7 @@ title: Pilitoko - Merchant App
 description: Mobile application for the store of Pilipilih
 img: assets/img/project7/1.webp
 importance: 1
-category: Pilipilih
+category: pilipilih
 ---
 
 This application developed by a team and i'm one of the crew.  My specific job in this application is to develop an application that can be used to manage store products, buying from local distributor or chinese distributor, tracking an order, receiving an order and communicating between customer via chat.
